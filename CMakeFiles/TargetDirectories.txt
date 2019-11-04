@@ -1,0 +1,4 @@
+/home/gemofort/calculator/CMakeFiles/edit_cache.dir
+/home/gemofort/calculator/CMakeFiles/rebuild_cache.dir
+/home/gemofort/calculator/CMakeFiles/StaticTest.exe.dir
+/home/gemofort/calculator/CMakeFiles/MyStaticLib.dir
